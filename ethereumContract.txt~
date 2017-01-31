@@ -29,9 +29,9 @@ contract BitContract {
 
     function BitContract(
         uint256 initialSupply,
-       
+        string tokenName,
         uint8 decimalUnits,
-        
+        string tokenSymbol
         ) {
         balanceOf[msg.sender] = initialSupply;              
         totalSupply = initialSupply;                        
