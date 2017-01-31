@@ -1,0 +1,2 @@
+# contract
+sample ether contract
