@@ -1,2 +1,2 @@
 # contract
-sample ether contract
+BITSYTE Smart Ethereum Contract
